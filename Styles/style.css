@@ -43,7 +43,7 @@ header {
   justify-content: space-between;
   align-items: center;
   height: 3.75rem;
-  background-color: rgb(32, 46, 63);
+  background-color: rgb(40, 58, 80);
   position: fixed;
   left: 0;
   top: 0;
@@ -252,7 +252,7 @@ header {
   justify-content: space-evenly;
   align-items: center;
   position: fixed;
-  background-color: rgb(32, 46, 63);
+  background-color: rgb(40, 58, 80);
   left: 0;
   bottom: 0;
   top: 3.75rem;
@@ -276,7 +276,7 @@ header {
 }
 
 .sidebar-link:hover {
-  background-color: rgb(27, 36, 48);
+  background-color: rgb(35, 46, 61);
 }
 
 .sidebar-link img {
@@ -1178,7 +1178,7 @@ input[type="checkbox"] {
 }
 
 .site-footer {
-  background-color: #1f2937;
+  background-color: #283a50;
   margin-top: auto;
   color: rgb(249, 250, 251);
   padding: 1rem 1.25rem;
@@ -1190,7 +1190,7 @@ input[type="checkbox"] {
   display: flex;
   justify-content: center;
   padding: 1.5rem 3rem;
-  background-color: #1f2937;
+  background-color: hsl(213, 33%, 24%);
 }
 
 .footer-links h3 {
@@ -1228,7 +1228,7 @@ input[type="checkbox"] {
   padding: 0.75rem 1rem;
   color: #9ca3af;
   font-size: clamp(0.75rem, 0.8vw + 0.1rem, 0.875rem);
-  background-color: #1f2937;
+  background-color: rgb(40, 58, 80);
 }
 
 @media (max-width: 1250px) {
