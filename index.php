@@ -84,7 +84,7 @@
         <section class="cta-section">
             <h2>Discover the Latest Tech</h2>
             <p>Browse trending gadgets, devices, and must-have gear all in one place.</p>
-            <a href="products.html" class="shop-now-btn">Shop Now</a>
+            <a href="products.php" class="shop-now-btn">Shop Now</a>
         </section>
 
 
